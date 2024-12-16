@@ -18,7 +18,10 @@
     <ClCompile Include="0x03\array_test.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="workbook\10808.cpp">
+    <ClCompile Include="workbook\0x03\10808.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0x04\1406.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

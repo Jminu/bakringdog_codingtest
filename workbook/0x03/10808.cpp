@@ -8,7 +8,7 @@ int main(void) {
 	string S;
 	getline(cin, S);
 	
-	for (int i = 0; i < S.length(); i++) {
+	for (int i = 0; i < S.length(); i++) { 
 		alpha[S[i] - 'a']++;
 	}
 	
