@@ -29,13 +29,14 @@ int main(void)
 	string bees_works;
 	while (true)
 	{
-		getline(cin, bees_works); //일 입력  getline으로 공백포함해서 받음
-		if (bees_works == "") //빈칸 입력하면 종료
+		getline(cin, bees_works); //일 입력, 아무것도 입력하지않고 개행문자 입력하면 종료
+		if (bees_works == "")
 			break;
 		split_str(bees_works);
 	}
 
 	vector<string>::iterator it = works_vec.begin();
+	//Cb같은 존재하지 않는 일이 나왔을때, total_cnt증가시키지만, 해당 일의 cnt를 증가시키진 않음
 	for (it = works_vec.begin(); it != works_vec.end(); it++)
 	{
 		if (*it == "Re")
@@ -67,6 +68,7 @@ int main(void)
 			works_cnt[6]++;
 		}
 		total_cnt++;
+
 	}
 
 	cout.precision(2);
