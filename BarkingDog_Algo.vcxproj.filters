@@ -63,5 +63,8 @@
     <ClCompile Include="0x0B_recursion\1629.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="workbook\POCS\week2\4779.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
