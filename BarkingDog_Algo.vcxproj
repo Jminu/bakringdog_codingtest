@@ -52,6 +52,7 @@
     <ClCompile Include="0x0B_recursion\1629.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="0x0C_Backtracking\15649.cpp" />
     <ClCompile Include="workbook\0x03\10808.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -70,7 +71,9 @@
     <ClCompile Include="workbook\POCS\week2\17451.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="workbook\POCS\week2\2302.cpp" />
+    <ClCompile Include="workbook\POCS\week2\2302.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="workbook\POCS\week2\4779.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
