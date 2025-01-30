@@ -93,5 +93,11 @@
     <ClCompile Include="workbook\POCS\week4\1541.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="workbook\POCS\week4\1359.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0x10DP\1463.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
