@@ -112,7 +112,10 @@
     <ClCompile Include="workbook\POCS\week5\11047.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="workbook\POCS\week5\1912.cpp" />
+    <ClCompile Include="workbook\POCS\week5\16953.cpp" />
+    <ClCompile Include="workbook\POCS\week5\1912.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="workbook\POCS\week5\24444.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
