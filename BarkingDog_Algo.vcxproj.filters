@@ -123,5 +123,8 @@
     <ClCompile Include="0x18 그래프\1260.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0x0C_Backtracking\9663.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
