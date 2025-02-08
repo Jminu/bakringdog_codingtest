@@ -129,5 +129,8 @@
     <ClCompile Include="0x10DP\9095.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="workbook\POCS\week6\5567.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
