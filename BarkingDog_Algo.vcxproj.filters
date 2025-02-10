@@ -135,5 +135,8 @@
     <ClCompile Include="workbook\POCS\week6\2193.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0x13 이분탐색\18870.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
