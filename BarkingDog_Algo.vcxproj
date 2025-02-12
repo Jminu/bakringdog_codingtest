@@ -76,6 +76,7 @@
     <ClCompile Include="0x14 투포인터\2230.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="0x16 이진탐색트리\7662.cpp" />
     <ClCompile Include="0x18 그래프\11724.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
