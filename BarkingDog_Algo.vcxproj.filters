@@ -150,5 +150,8 @@
     <ClCompile Include="0x16 이진탐색트리\7662.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0x15 해시\7785.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
