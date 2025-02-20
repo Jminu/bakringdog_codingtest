@@ -162,5 +162,20 @@
     <ClCompile Include="workbook\POCS\week7\1874.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0x10DP\2579.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0x0C_Backtracking\15650.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0x0C_Backtracking\15651.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0x10DP\1003.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0x09BFS\2583.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
